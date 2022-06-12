@@ -1,0 +1,7 @@
+project: rss
+target: channel-reader
+
+cmds:
+  - cmd: /channel_reader
+  - cmd: /channel_reader_no_inst @@
+    libfuzzer: false
