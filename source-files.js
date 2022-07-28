@@ -1,4 +1,4 @@
-var N = null;var sourcesIndex = {};
+var sourcesIndex = {};
 sourcesIndex["atom_syndication"] = {"name":"","dirs":[{"name":"extension","files":["mod.rs","util.rs"]}],"files":["category.rs","content.rs","entry.rs","error.rs","feed.rs","fromxml.rs","generator.rs","lib.rs","link.rs","person.rs","source.rs","text.rs","toxml.rs","util.rs"]};
 sourcesIndex["cfg_if"] = {"name":"","files":["lib.rs"]};
 sourcesIndex["chrono"] = {"name":"","dirs":[{"name":"format","files":["mod.rs","parse.rs","parsed.rs","scan.rs","strftime.rs"]},{"name":"naive","files":["date.rs","datetime.rs","internals.rs","isoweek.rs","time.rs"]},{"name":"offset","files":["fixed.rs","mod.rs","utc.rs"]}],"files":["date.rs","datetime.rs","div.rs","lib.rs","oldtime.rs","round.rs"]};
@@ -21,7 +21,7 @@ sourcesIndex["never"] = {"name":"","files":["lib.rs"]};
 sourcesIndex["num_integer"] = {"name":"","files":["average.rs","lib.rs","roots.rs"]};
 sourcesIndex["num_traits"] = {"name":"","dirs":[{"name":"ops","files":["checked.rs","euclid.rs","inv.rs","mod.rs","mul_add.rs","overflowing.rs","saturating.rs","wrapping.rs"]}],"files":["bounds.rs","cast.rs","float.rs","identities.rs","int.rs","lib.rs","macros.rs","pow.rs","sign.rs"]};
 sourcesIndex["percent_encoding"] = {"name":"","files":["lib.rs"]};
-sourcesIndex["proc_macro2"] = {"name":"","files":["detection.rs","fallback.rs","lib.rs","marker.rs","parse.rs","wrapper.rs"]};
+sourcesIndex["proc_macro2"] = {"name":"","files":["detection.rs","fallback.rs","lib.rs","marker.rs","parse.rs","rcvec.rs","wrapper.rs"]};
 sourcesIndex["quick_xml"] = {"name":"","dirs":[{"name":"events","files":["attributes.rs","mod.rs"]}],"files":["errors.rs","escapei.rs","lib.rs","reader.rs","utils.rs","writer.rs"]};
 sourcesIndex["quote"] = {"name":"","files":["ext.rs","format.rs","ident_fragment.rs","lib.rs","runtime.rs","spanned.rs","to_tokens.rs"]};
 sourcesIndex["rss"] = {"name":"","dirs":[{"name":"extension","dirs":[{"name":"itunes","files":["itunes_category.rs","itunes_channel_extension.rs","itunes_item_extension.rs","itunes_owner.rs","mod.rs"]}],"files":["dublincore.rs","mod.rs","syndication.rs","util.rs"]}],"files":["category.rs","channel.rs","cloud.rs","enclosure.rs","error.rs","guid.rs","image.rs","item.rs","lib.rs","source.rs","textinput.rs","toxml.rs","util.rs","validation.rs"]};
